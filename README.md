@@ -9,6 +9,10 @@ A compendium of different resources for web that i find useful
 
 ## Databases
 
+## Version Control
+
+### Git
+
 ## Browser
 
 ## .NET
