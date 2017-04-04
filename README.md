@@ -17,7 +17,7 @@ A compendium of different resources for web that i find useful
 
 ### .NET CORE
 
-## DESIGN
+## Design
 
 ## MacOS
 
