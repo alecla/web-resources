@@ -2,7 +2,8 @@
 A compendium of different resources for web that i find useful
 
 ## HTML
-* [Sitepoint](https://webfieldmanual.com/code)
+* [Sitepoint](https://sitepoint.com)
+* [Web Field Manual](https://webfieldmanual.com/code)
 
 ### Accessibility
 * [Google on accessibility](https://github.com/alecla/accessibility-compendium)
