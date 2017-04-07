@@ -7,7 +7,7 @@ A compendium of different resources for web that i find useful
 * [Google on accessibility](https://github.com/alecla/accessibility-compendium)
 
 ## CSS
-* Css-tricks: http://css-tricks.com
+* [CSS-tricks](http://css-tricks.com)
 
 ## Javascript
 
@@ -39,6 +39,6 @@ A compendium of different resources for web that i find useful
 ## Tools/Extensions
 
 ### Chrome
-* [Google Lighthouse (Performance analyzer)]
+* [Google Lighthouse(Performance analyzer)](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=sv)
 
 ## Other
