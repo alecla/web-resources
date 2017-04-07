@@ -4,7 +4,7 @@ A compendium of different resources for web that i find useful
 ## HTML
 
 ### Accessibility
-https://github.com/alecla/accessibility-compendium
+* [Google on accessibility](https://github.com/alecla/accessibility-compendium)
 
 ## CSS
 * Css-tricks: http://css-tricks.com
@@ -12,9 +12,9 @@ https://github.com/alecla/accessibility-compendium
 ## Javascript
 
 ### Vue.js
-* Official Vue.js website: https://vuejs.org/
-* Cheatsheet: https://vuejs-tips.github.io/cheatsheet/
-* Egghead tutorials: https://egghead.io/technologies/vue 
+* [Official Vue.js website](https://vuejs.org/)
+* [Cheatsheet](https://vuejs-tips.github.io/cheatsheet/)
+* [Egghead tutorials](https://egghead.io/technologies/vue)
 
 ## Databases
 
@@ -39,6 +39,6 @@ https://github.com/alecla/accessibility-compendium
 ## Tools/Extensions
 
 ### Chrome
-* Google Lighthouse (Performance analyzer) - https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=sv
+* [Google Lighthouse (Performance analyzer)]
 
 ## Other
