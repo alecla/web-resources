@@ -14,6 +14,7 @@ A compendium of different resources for web that i find useful
 * [TDD](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)
 * [Official Vue.js website](https://vuejs.org/)
 * [Vue.js Cheatsheet](https://vuejs-tips.github.io/cheatsheet/)
+* [Vue.js introduction tutorial](https://www.sitepoint.com/up-and-running-vue-js-2-0/)
 
 ## Back-end
 
