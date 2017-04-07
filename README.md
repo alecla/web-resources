@@ -13,7 +13,7 @@ A compendium of different resources for web that i find useful
 * [Scotch.io (tutorials)](http://scotch.io)
 * [TDD](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)
 * [Official Vue.js website](https://vuejs.org/)
-* [Cheatsheet](https://vuejs-tips.github.io/cheatsheet/)
+* [Vue.js Cheatsheet](https://vuejs-tips.github.io/cheatsheet/)
 
 ## Back-end
 
