@@ -22,8 +22,6 @@ A compendium of different resources for web that i find useful
 ## Windows
 
 ## Tools/Extensions
-
-### Chrome
 * [Google Lighthouse(Chrome extension, performance analyzer)](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=sv)
 
 ## Other
