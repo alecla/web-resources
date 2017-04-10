@@ -2,6 +2,7 @@
 A compendium of different resources for web that i find useful
 
 ## Front-end
+* [Become a fullstack developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 * [Sitepoint](https://sitepoint.com)
 * [Web Field Manual](https://webfieldmanual.com/code)
 * [Google on accessibility](https://github.com/alecla/accessibility-compendium)
