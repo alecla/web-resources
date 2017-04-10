@@ -10,12 +10,15 @@ A compendium of different resources for web that i find useful
 * [Mozilla Developer Network](https://developer.mozilla.org/sv-SE/)
 * [Smashing Magazine](http://smashingmagazine.com)
 * [Tympanus](http://tympanus.net/codrops/)
-* [JSTIPS](http://www.jstips.co/)
-* [2ality - Javascript and more](http://2ality.com/)
 * [Egghead.io (video courses)](http://eghead.io)
 * [Scotch.io (tutorials)](http://scotch.io)
-* [TDD with Javascript](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)
 * [Tutorialzine](http://tutorialzine.com/)
+
+### Javascript
+* [2ality - Javascript and more](http://2ality.com/)
+* [ES6 features](https://github.com/lukehoban/es6features)
+* [JSTIPS](http://www.jstips.co/)
+* [TDD with Javascript](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)
 * [Official Vue.js website](https://vuejs.org/)
 * [Vue.js Cheatsheet](https://vuejs-tips.github.io/cheatsheet/)
 * [Vue.js introduction tutorial](https://www.sitepoint.com/up-and-running-vue-js-2-0/)
