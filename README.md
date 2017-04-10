@@ -18,6 +18,7 @@ A compendium of different resources for web that i find useful
 
 ## Back-end
 * [ASP.NET MVC Javascript services project](https://github.com/aspnet/JavaScriptServices)
+* [ASP.NET Core with Javascript](https://medium.com/@MaartenSikkema/using-react-redux-and-webpack-with-dotnet-core-to-build-a-modern-web-frontend-7e2d091b3ba)
 
 ## OSX
 
