@@ -7,13 +7,16 @@ A compendium of different resources for web that i find useful
 * [Web Field Manual](https://webfieldmanual.com/code)
 * [Google on accessibility](https://github.com/alecla/accessibility-compendium)
 * [CallMeNick](http://callmenick.com/)
-* [CSS-tricks](http://css-tricks.com)
 * [Mozilla Developer Network](https://developer.mozilla.org/sv-SE/)
 * [Smashing Magazine](http://smashingmagazine.com)
 * [Tympanus](http://tympanus.net/codrops/)
 * [Egghead.io (video courses)](http://eghead.io)
 * [Scotch.io (tutorials)](http://scotch.io)
 * [Tutorialzine](http://tutorialzine.com/)
+
+### CSS
+* [CSS protips](https://github.com/AllThingsSmitty/css-protips)
+* [CSS-tricks](http://css-tricks.com)
 
 ### Javascript
 * [2ality - Javascript and more](http://2ality.com/)
