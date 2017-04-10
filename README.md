@@ -17,6 +17,7 @@ A compendium of different resources for web that i find useful
 * [Vue.js introduction tutorial](https://www.sitepoint.com/up-and-running-vue-js-2-0/)
 
 ## Back-end
+* [ASP.NET MVC Javascript services project](https://github.com/aspnet/JavaScriptServices)
 
 ## OSX
 
