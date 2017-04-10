@@ -24,7 +24,8 @@ A compendium of different resources for web that i find useful
 * [TDD with Javascript](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)
 
 #### Vue.js
-* [Integrate with .NET MVC project](https://github.com/mmusket/vue-mvc)
+* [Vue with .NET MVC](https://github.com/mmusket/vue-mvc)
+* [Vue with .NET MVC 2](http://www.lambdatwist.com/dot-net-vuejs/)
 * [Official Vue.js website](https://vuejs.org/)
 * [Vue.js Cheatsheet](https://vuejs-tips.github.io/cheatsheet/)
 * [Vue.js introduction tutorial](https://www.sitepoint.com/up-and-running-vue-js-2-0/)
