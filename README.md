@@ -12,6 +12,7 @@ A compendium of different resources for web that i find useful
 * [Egghead.io (video courses)](http://eghead.io)
 * [Scotch.io (tutorials)](http://scotch.io)
 * [TDD with Javascript](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)
+* [Tutorialzine](http://tutorialzine.com/)
 * [Official Vue.js website](https://vuejs.org/)
 * [Vue.js Cheatsheet](https://vuejs-tips.github.io/cheatsheet/)
 * [Vue.js introduction tutorial](https://www.sitepoint.com/up-and-running-vue-js-2-0/)
