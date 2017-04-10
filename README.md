@@ -16,6 +16,8 @@ A compendium of different resources for web that i find useful
 
 ### Javascript
 * [2ality - Javascript and more](http://2ality.com/)
+* [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
+* [Debugging Node.js Apps in Chrome](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
 * [ES6 features](https://github.com/lukehoban/es6features)
 * [JSTIPS](http://www.jstips.co/)
 * [TDD with Javascript](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)
