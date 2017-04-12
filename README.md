@@ -19,6 +19,7 @@ A compendium of different resources for web that i find useful
 * [CSS-tricks](http://css-tricks.com)
 
 ### Javascript
+* [Free Javascript Course](https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27)
 * [2ality - Javascript and more](http://2ality.com/)
 * [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Debugging Node.js Apps in Chrome](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
