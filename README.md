@@ -33,6 +33,7 @@ A compendium of different resources for web that i find useful
 * [Official Vue.js website](https://vuejs.org/)
 * [Vue.js Cheatsheet](https://vuejs-tips.github.io/cheatsheet/)
 * [Vue.js introduction tutorial](https://www.sitepoint.com/up-and-running-vue-js-2-0/)
+* [VueX - Centralized State Management in Vue](https://github.com/vuejs/vuex)
 
 ## Back-end
 * [ASP.NET MVC Javascript services project](https://github.com/aspnet/JavaScriptServices)
