@@ -13,6 +13,7 @@ A compendium of different resources for web that i find useful
 * [Egghead.io (video courses)](http://eghead.io)
 * [Scotch.io (tutorials)](http://scotch.io)
 * [Tutorialzine](http://tutorialzine.com/)
+* [Google DevTools](https://developer.chrome.com/devtools)
 
 ### CSS
 * [CSS protips](https://github.com/AllThingsSmitty/css-protips)
