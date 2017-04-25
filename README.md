@@ -19,6 +19,9 @@ A compendium of different resources for web that i find useful
 * [CSS protips](https://github.com/AllThingsSmitty/css-protips)
 * [CSS-tricks](http://css-tricks.com)
 
+#### Mixins/Snippets
+* [Between SCSS mixin](https://css-tricks.com/between-the-lines/)
+
 ### Javascript
 * [Free Javascript Course](https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27)
 * [2ality - Javascript and more](http://2ality.com/)
