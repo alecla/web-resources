@@ -19,6 +19,7 @@ A compendium of different resources for web that i find useful
 ### CSS
 * [CSS protips](https://github.com/AllThingsSmitty/css-protips)
 * [CSS-tricks](http://css-tricks.com)
+* [CSS Grid game](http://cssgridgarden.com/)
 
 #### Mixins/Snippets
 * [Between SCSS mixin](https://css-tricks.com/between-the-lines/)
