@@ -31,6 +31,7 @@ A compendium of different resources for web that i find useful
 * [ES6 features](https://github.com/lukehoban/es6features)
 * [JSTIPS](http://www.jstips.co/)
 * [TDD with Javascript](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)
+* [Google Progressive Web Apps](https://developers.google.com/web/ilt/pwa/)
 
 #### Vue.js
 * [Vue with .NET MVC](https://github.com/mmusket/vue-mvc)
