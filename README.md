@@ -52,6 +52,7 @@ A compendium of different resources for web that i find useful
 ## Windows
 
 ## Tools/Extensions
+* [Responsive Website Tool](http://sizzy.co/)
 * [Google Lighthouse(Chrome extension, performance analyzer)](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=sv)
 * [Vue.js devtools (Chrome Extension)](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?utm_source=chrome-ntp-icon)
 
