@@ -20,6 +20,7 @@ A compendium of different resources for web that i find useful
 * [CSS protips](https://github.com/AllThingsSmitty/css-protips)
 * [CSS-tricks](http://css-tricks.com)
 * [CSS Grid game](http://cssgridgarden.com/)
+* [BEM naming convention](http://getbem.com/naming/)
 
 #### Mixins/Snippets
 * [Between SCSS mixin](https://css-tricks.com/between-the-lines/)
