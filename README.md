@@ -46,6 +46,7 @@ A compendium of different resources for web that i find useful
 * [Vue.js introduction tutorial](https://www.sitepoint.com/up-and-running-vue-js-2-0/)
 * [VueX - Centralized State Management in Vue](https://github.com/vuejs/vuex)
 * [Vue.js Examples](https://alligator.io/vuejs/)
+* [Server Side Rendering](https://ssr.vuejs.org/en/)
 
 ## Back-end
 * [ASP.NET MVC Javascript services project](https://github.com/aspnet/JavaScriptServices)
