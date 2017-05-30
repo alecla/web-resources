@@ -21,6 +21,7 @@ A compendium of different resources for web that i find useful
 * [CSS-tricks](http://css-tricks.com)
 * [CSS Grid game](http://cssgridgarden.com/)
 * [BEM naming convention](http://getbem.com/naming/)
+* [CSS Modules](https://github.com/css-modules/css-modules)
 
 #### Mixins/Snippets
 * [Between SCSS mixin](https://css-tricks.com/between-the-lines/)
