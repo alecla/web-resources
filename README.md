@@ -15,6 +15,7 @@ A compendium of different resources for web that i find useful
 * [Tutorialzine](http://tutorialzine.com/)
 * [Google DevTools](https://developer.chrome.com/devtools)
 * [Real World Apps examples](https://github.com/gothinkster/realworld)
+* [SpellBook FrontEnd links](https://github.com/dexteryy/spellbook-of-modern-webdev)
 
 ### CSS
 * [CSS protips](https://github.com/AllThingsSmitty/css-protips)
