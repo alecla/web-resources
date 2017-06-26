@@ -40,6 +40,7 @@ A compendium of different resources for web that i find useful
 * [JSTIPS](http://www.jstips.co/)
 * [TDD with Javascript](http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)
 * [Google Progressive Web Apps](https://developers.google.com/web/ilt/pwa/)
+* [Multipurpose Functions](http://canivete.leofavre.com/#about)
 
 #### Snippets/Howto
 * [Fetch](https://css-tricks.com/using-fetch/)
