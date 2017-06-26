@@ -1,6 +1,9 @@
 # web-resources
 A compendium of different resources for web that i find useful
 
+## General
+* [Free programming books](https://github.com/EbookFoundation/free-programming-books)
+
 ## Front-end
 * [Become a fullstack developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 * [Sitepoint](https://sitepoint.com)
