@@ -64,6 +64,7 @@ A compendium of different resources for web that i find useful
 
 ## Machine Learning
 * [Course Python & Machine Learning](https://classroom.udacity.com/courses/ud120)
+* [Google Research Blog](https://research.googleblog.com/)
 
 ## OSX
 
