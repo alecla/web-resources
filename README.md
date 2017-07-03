@@ -55,6 +55,9 @@ A compendium of different resources for web that i find useful
 * [Vue.js Examples](https://alligator.io/vuejs/)
 * [Server Side Rendering](https://ssr.vuejs.org/en/)
 
+### React.js
+* [React Express guide](http://www.react.express/)
+
 ### Mavo
 * [Mavo](https://github.com/mavoweb/mavo)
 
