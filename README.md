@@ -68,7 +68,7 @@ A compendium of different resources for web that i find useful
 ## Machine Learning
 * [Course Python & Machine Learning](https://classroom.udacity.com/courses/ud120)
 * [Google Research Blog](https://research.googleblog.com/)
-# [List of ML learning resources](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
+* [List of ML learning resources](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
 
 ## OSX
 
