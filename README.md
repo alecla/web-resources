@@ -33,6 +33,7 @@ A compendium of different resources for web that i find useful
 * [Between SCSS mixin](https://css-tricks.com/between-the-lines/)
 
 ### Javascript
+* [ES2015+ Cheatsheet](https://devhints.io/es6)
 * [Free Javascript Course](https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27)
 * [2ality - Javascript and more](http://2ality.com/)
 * [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
