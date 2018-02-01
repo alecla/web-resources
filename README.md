@@ -66,6 +66,7 @@ A compendium of different resources for web that i find useful
 
 ## Tools
 * [Webpack examples](https://github.com/ruanyf/webpack-demos)
+* [Fake API server](https://github.com/typicode/json-server)
 
 ## Back-end
 * [ASP.NET MVC Javascript services project](https://github.com/aspnet/JavaScriptServices)
