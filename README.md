@@ -5,6 +5,7 @@ A compendium of different resources for web that i find useful
 * [Free programming books](https://github.com/EbookFoundation/free-programming-books)
 
 ## Front-end
+* [Frontend Performance Check List](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 * [Frontend checklist](https://github.com/thedaviddias/Front-End-Checklist)
 * [Become a fullstack developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 * [Sitepoint](https://sitepoint.com)
